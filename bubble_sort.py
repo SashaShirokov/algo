@@ -9,6 +9,7 @@ def bubble_sort(arr):
             break
     return arr
 
+print('hey')
 
 a = [8, 10, 38, 17]
 print(bubble_sort(a))
