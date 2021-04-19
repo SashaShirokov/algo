@@ -11,5 +11,7 @@ def bubble_sort(arr):
 
 a = [8, 10, 38, 17]
 print(bubble_sort(a))
-print(bubble_sort([11, 8, 39, 20, 183, 0, 6])
+print(bubble_sort([11, 8, 39, 20, 183, 0, 6]))
+print(bubble_sort([8, 1, 9, 3, 6, 0]))
+
 
