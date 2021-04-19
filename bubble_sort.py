@@ -8,9 +8,8 @@ def bubble_sort(arr):
         if not swapped:
             break
     return arr
-<<<<<<< HEAD
 
-print('hey man')
->>>>>>> test
 a = [8, 10, 38, 17]
 print(bubble_sort(a))
+print(bubble_sort([11, 8, 39, 20, 183, 0, 6])
+
